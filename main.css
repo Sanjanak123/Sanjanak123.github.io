@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(184, 102, 102);
+}
+h1{
+    color: rgb(201, 57, 177);
+    background-color: rgb(217, 175, 223);
+    font-weight: bolder;
+}
+h2{
+    color: mintcream;
+}
+p{
+    color: rgb(228, 206, 222);
+ 
+}  
+
+
+body{
+    padding: 0px;
+    margin: 0px; 
+}
+.flex{
+    display: inline-block;
+    width: 20%;
+    background: rgb(184, 102, 102);
+    color:black;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 2px;
+    box-shadow: 2px 0px 5px 1px rgb(187,187, 187,0.8);
+}
+
+.cards{
+    width:60%;
+    margin: auto;
+}
+
+.flex h4{
+    font-size: 15px;
+    color: rgb(245, 245, 245);
+    text-align: center;
+     padding: 0px;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.flex p{
+    font-size: 15.5px;
+    color:  rgb(233, 216, 230) ;
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
